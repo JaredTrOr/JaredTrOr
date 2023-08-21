@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/c4/95/31/c495312125640fdd3e2db2599fe579b0.png" alt="MasterHead" height="300" width="100%">
+<img src="https://i.pinimg.com/originals/c4/95/31/c495312125640fdd3e2db2599fe579b0.png" alt="MasterHead" height="240" width="100%">
 <h1 align="center">Hello ✌️, I'm Jared and welcome to my profile</h1>
 <h3 align="center">A passionate junior web developer from Mexico</h3>
 
