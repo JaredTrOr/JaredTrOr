@@ -2,9 +2,9 @@
 <h1 align="center">Hello ✌️, I'm Jared and welcome to my profile</h1>
 <h3 align="center">A passionate junior web developer from Mexico</h3>
 
-- 🌱 I’m currently learning React and Expressjs
-- 🦾 I'm currently working on creating API's and Frontend applications
-- 📫 Ask me about Frontend and NodeJS
+- 🌱 Creation of API'S using ExpressJS
+- 🦾 Creating frontend apps using Angular and React
+- 📫 Experiencie developing mobile apps with Flutter
 
 <h3 align="left">Interests:</h3>
 Music 🎧
