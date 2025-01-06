@@ -3,7 +3,7 @@
 <h3 align="center">A passionate junior web developer from Mexico</h3>
 
 - 🌱 Creation of API'S using ExpressJS
-- 🦾 Creating frontend apps using Angular and React
+- 🦾 Creating frontend apps using Angular
 - 📫 Experiencie developing mobile apps with Flutter
 
 <h3 align="left">Interests:</h3>
