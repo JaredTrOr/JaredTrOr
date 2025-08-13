@@ -4,7 +4,7 @@
 
 - 🌱 Creation of API'S using ExpressJS
 - 🦾 Creating frontend apps using Angular
-- 📫 Experiencie developing mobile apps with Flutter
+- 📫 Experiencie developing mobile apps with Angular, Nodejs and Flutter
 
 <h3 align="left">Interests:</h3>
 Music 🎧
